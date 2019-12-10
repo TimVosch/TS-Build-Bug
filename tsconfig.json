@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "lib",
+    "composite": true,
+    "esModuleInterop": true,
+    "moduleResolution": "Node",
+    "module": "CommonJS",
+    "sourceMap": true,
+    "strict": true,
+    "target": "ES6",
+    "experimentalDecorators": true
+  },
+  "include": [
+    "src/**/*.ts"
+  ]
+}
